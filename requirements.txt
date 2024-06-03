@@ -6,3 +6,4 @@ sqlalchemy
 dotenv
 python-dotenv
 psycopg2-binary
+postgressql
