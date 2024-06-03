@@ -3,7 +3,7 @@ psycopg2
 pandas
 numpy
 sqlalchemy
-dotenv
+#dotenv
 python-dotenv
 psycopg2-binary
 postgressql
