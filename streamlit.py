@@ -2,12 +2,12 @@ import streamlit as st
 from psycopg2 import sql
 from sqlalchemy import create_engine
 import pandas as pd
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import os
 import secrets
 
 #Database connection
-load_dotenv()
+#load_dotenv()
 
 #function to connect to database
 def get_db_connection():
