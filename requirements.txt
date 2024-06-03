@@ -1,9 +1,6 @@
-streamlit
-psycopg2-binary
-pandas
-numpy
-sqlalchemy
-#dotenv
-python-dotenv
-psycopg2-binary
-postgressql
+streamlit==1.35.0
+psycopg2-binary==2.9.9
+pandas==2.0.3
+numpy==1.24.4
+sqlalchemy==2.0.30
+python-dotenv==1.0.1
